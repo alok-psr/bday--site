@@ -60,6 +60,7 @@ h1, h2, h3, h4, p {
     border-radius: 10px;
     background-image: url("images/gift-cover.jpg");
     background-size: cover;
+    transition: background-image 1s;
 }
 
 #gift-img-happy:hover {
